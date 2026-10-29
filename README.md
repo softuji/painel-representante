@@ -4,7 +4,9 @@ Projeto desenvolvido no âmbito do curso de Bacharelado em Ciência da Computaç
 
 ## 📌 Sobre o Projeto
 
-O **Painel Representante** foca na etapa inicial do atendimento comercial de uma pasta específica de representação comercial. O sistema contempla:
+O **Painel Representante** foca na etapa inicial do atendimento comercial de uma pasta chamada [Pinceis Compel](https://pinceiscompel.com.br/pedidosweb/) de representação comercial. 
+
+O sistema contempla:
 
 - **Recebimento de Solicitações:** Captura de solicitações de orçamentos e pedidos encaminhados por clientes via canais externos (WhatsApp e e-mail via Outlook/Hotmail).
 - **Interpretação e Extração Inteligente:** Normalização das mensagens e extração estruturada dos dados pertinentes (códigos, descrições, quantidades, dimensões) utilizando modelo de Inteligência Artificial (retornando formato JSON).
@@ -23,6 +25,3 @@ O **Painel Representante** foca na etapa inicial do atendimento comercial de uma
 
 ---
 
-## 🔗 Links Úteis
-
-- **Workflow no n8n:** [Acessar Fluxo](https://demo-system.app.n8n.cloud/workflow/4ZTDE0WOT4ge63Ps)
