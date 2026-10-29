@@ -16,7 +16,13 @@ O **Painel Representante** foca na etapa inicial do atendimento comercial de uma
 ## 🛠️ Tecnologias Utilizadas
 
 - **Backend:** Java, Spring Boot
-- **Integração & Workflows:** n8n, Microsoft Graph API, WhatsApp API
+- **Integração & Workflows:** [Fluxo no n8n](https://demo-system.app.n8n.cloud/workflow/4ZTDE0WOT4ge63Ps), Microsoft Graph API, WhatsApp API
 - **Inteligência Artificial:** API IA (LLM para extração de entidades)
 - **Banco de Dados:** PostgreSQL
 - **Frontend:** React
+
+---
+
+## 🔗 Links Úteis
+
+- **Workflow no n8n:** [Acessar Fluxo](https://demo-system.app.n8n.cloud/workflow/4ZTDE0WOT4ge63Ps)
